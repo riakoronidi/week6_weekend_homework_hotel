@@ -26,11 +26,4 @@ public class Bedroom extends Room {
         return cost;
     }
 
-//    public void available(Guest guest){
-//        if (.getGuests() <= bedroom.getCapacity()) {
-////            guests.add(guest);
-//            .addGuest();
-//        }
-//    }
-
 }
